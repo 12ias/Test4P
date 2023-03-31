@@ -11,12 +11,13 @@ public class First {
                         for (int l = 5; l >= 1; l--) {
                             System.out.print(l);
                             if (l == 1) {
-                                System.out.println();;
+                                System.out.println();
                             }
                         }
                     }
                 }
             }
+            System.out.println();
         }
     }
 }
